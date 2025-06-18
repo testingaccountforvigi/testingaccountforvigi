@@ -200,6 +200,8 @@ _Random Stuff_
 </tr>
 </table>
 
+<br><br>
+
 <div align="center">
 
 ![Stack Overflow Warrior](https://img.shields.io/badge/🔥_Stack_Overflow-Warrior-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)
@@ -212,7 +214,6 @@ _Random Stuff_
 ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem-Solver-4ECDC4?style=for-the-badge&logo=lightbulb&logoColor=white)
 ![Fast Learner](https://img.shields.io/badge/Fast-Learner-45B7D1?style=for-the-badge&logo=brain&logoColor=white)
-
 ![Team Player](https://img.shields.io/badge/Team-Player-96CEB4?style=for-the-badge&logo=handshake&logoColor=white)
 ![Innovation](https://img.shields.io/badge/Innovation-Driven-DDA0DD?style=for-the-badge&logo=rocket&logoColor=white)
 ![Continuous Learning](https://img.shields.io/badge/Continuous-Learning-F8B500?style=for-the-badge&logo=graduation-cap&logoColor=white)
