@@ -1,173 +1,212 @@
 <div align="center">
-
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="My Awesome Banner" width="100%"/>
-
-  <h1>Hi there, I'm [Your Name/Username]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <p><em>[Your Catchy Tagline or Short Bio - e.g., "Full-Stack Alchemist | Turning Coffee into Code | Lover of Open Source & Clean Design" ]</em></p>
-
-  <p>
-    <a href="[Your LinkedIn URL]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="[Your Twitter/X URL]" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    <a href="[Your Portfolio/Website URL]" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF69B4.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a> <a href="mailto:[Your Email]" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    </p>
-
+  <img src="Mahesh.jpg" alt="Mahesh Rajpurohit Banner" width="100%" />
 </div>
 
----
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&pause=2000&color=7adff3&center=true&vCenter=true&width=650&lines=%E2%9A%A1+TURNING+COFFEE+INTO+CODE+%E2%9A%A1;%F0%9F%9A%80+LEARNING+EVERY+DAY+%F0%9F%9A%80;%F0%9F%94%A5+EAT+SLEEP+CODE+REPEAT+%F0%9F%94%A5)](https://git.io/typing-svg)
+  
+</div>
+<br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> A Little More About Me...
-
-<details>
-  <summary>Click to expand! ✨</summary>
-  <br>
-  Hey! I'm a passionate and results-driven [Your Role - e.g., Software Engineer, Data Scientist, Student] based in [Your Location (Optional)]. My journey in tech started with [Briefly mention your origin story - e.g., a fascination for how websites worked, a love for problem-solving, a specific project].
-  <br><br>
-  I thrive on building things that are [Your Core Values - e.g., efficient, user-friendly, impactful, innovative]. When I'm not coding, you can find me [Your Hobbies/Interests - e.g., exploring new hiking trails, experimenting with new recipes, playing the guitar, reading sci-fi novels].
-  <br><br>
-  🌱 I’m currently learning: **[Skill/Technology 1], [Skill/Technology 2]**
-  <br>
-  👯 I’m looking to collaborate on: **[Types of projects or specific ideas]**
-  <br>
-  🤔 I’m looking for help with: **[Specific challenge or area you need guidance on]**
-  <br>
-  💬 Ask me about: **[Topics you're knowledgeable or passionate about]**
-  <br>
-  📫 How to reach me: **[Reiterate your preferred contact method, or a fun alternative way]**
-  <br>
-  😄 Pronouns: **[Your Pronouns]**
-  <br>
-  ⚡ Fun fact: **[A quirky or interesting fact about yourself!]**
-</details>
-
----
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/App_icon.gif" width = 50px></picture> My Tech Arsenal
+<!-- CREATIVE TERMINAL SIMULATOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=~/mahesh_terminal&fontSize=20&fontColor=7adff3&fontAlignY=50&desc=Interactive%20Developer%20Console&descAlignY=35&descAlign=50" />
+</div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  </div>
+  <table style="border: 2px solid #7adff3; border-radius: 10px; background: linear-gradient(45deg, #0a0a0a, #1a1a1a);">
+    <tr>
+      <td style="padding: 20px;">
+        <pre style="color: #7adff3; font-family: 'Courier New', monospace; font-size: 14px; margin: 0;">
+<span style="color: #00ff00;">mahesh@github:~$</span> whoami
+<span style="color: #ffffff;">► Student Developer & Code Enthusiast</span>
+<span style="color: #ffffff;">► Location: Planet Earth 🌍</span>
+<span style="color: #ffffff;">► Mission: Transform ideas into digital reality</span>
+
+<span style="color: #00ff00;">mahesh@github:~$</span> cat skills.txt
+<span style="color: #ffff00;">Frontend Magic:</span> React, HTML5, CSS3, JavaScript
+<span style="color: #ff6b6b;">Backend Power:</span> Node.js, Python, Databases
+<span style="color: #ff79c6;">Tools & More:</span> Git, VS Code, MongoDB, MySQL
+
+<span style="color: #00ff00;">mahesh@github:~$</span> echo $MOTIVATION
+<span style="color: #ffffff;">"Every bug is a puzzle waiting to be solved 🧩"</span>
+</pre>
+</td>
+</tr>
+
+  </table>
+</div>
 
 <br>
 
-<details>
-  <summary>More about my skill set... 📜</summary>
-  <br>
-  * **Languages:** [Language 1], [Language 2], [Language 3]
-  * **Frameworks & Libraries:** [Framework 1], [Library 1], [Framework 2]
-  * **Databases:** [Database 1], [Database 2]
-  * **Tools & Platforms:** [Tool 1], [Platform 1], [CI/CD Tool]
-  * **Cloud:** [Cloud Provider 1 (e.g., AWS)], [Cloud Provider 2 (e.g., Azure)]
-  * **Design:** [Design Tool 1 (e.g., Figma)], [Design Tool 2 (e.g., Adobe XD)]
-  <br>
-</details>
+<!-- UNIQUE SKILL CONSTELLATION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=100&section=header&text=⭐%20SKILL%20CONSTELLATION%20⭐&fontSize=24&fontColor=ffffff&animation=twinkling" />
+</div>
 
----
+<div align="center">
+  <svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="600" height="400" fill="url(#starfield)"/>
+    
+    <!-- Constellation Lines -->
+    <line x1="100" y1="100" x2="200" y2="150" stroke="#7adff3" stroke-width="2" opacity="0.6"/>
+    <line x1="200" y1="150" x2="300" y2="100" stroke="#7adff3" stroke-width="2" opacity="0.6"/>
+    <line x1="300" y1="100" x2="400" y2="180" stroke="#7adff3" stroke-width="2" opacity="0.6"/>
+    <line x1="400" y1="180" x2="500" y2="120" stroke="#7adff3" stroke-width="2" opacity="0.6"/>
+    <line x1="200" y1="150" x2="300" y2="250" stroke="#7adff3" stroke-width="2" opacity="0.6"/>
+    <line x1="300" y1="250" x2="400" y2="300" stroke="#7adff3" stroke-width="2" opacity="0.6"/>
+    
+    <!-- Skill Stars -->
+    <circle cx="100" cy="100" r="25" fill="#ffff00" opacity="0.9"/>
+    <text x="100" y="85" text-anchor="middle" fill="#000" font-size="12" font-weight="bold">JS</text>
+    
+    <circle cx="200" cy="150" r="25" fill="#61dafb" opacity="0.9"/>
+    <text x="200" y="135" text-anchor="middle" fill="#000" font-size="10" font-weight="bold">REACT</text>
+    
+    <circle cx="300" cy="100" r="25" fill="#3776ab" opacity="0.9"/>
+    <text x="300" y="85" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">PYTHON</text>
+    
+    <circle cx="400" cy="180" r="25" fill="#68a063" opacity="0.9"/>
+    <text x="400" y="165" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">NODE</text>
+    
+    <circle cx="500" cy="120" r="25" fill="#e34c26" opacity="0.9"/>
+    <text x="500" y="105" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">HTML</text>
+    
+    <circle cx="300" cy="250" r="25" fill="#f06529" opacity="0.9"/>
+    <text x="300" y="235" text-anchor="middle" fill="#fff" font-size="12" font-weight="bold">CSS</text>
+    
+    <circle cx="400" cy="300" r="25" fill="#f05032" opacity="0.9"/>
+    <text x="400" y="285" text-anchor="middle" fill="#fff" font-size="12" font-weight="bold">GIT</text>
+    
+    <defs>
+      <radialGradient id="starfield" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" style="stop-color:#000428"/>
+        <stop offset="100%" style="stop-color:#004e92"/>
+      </radialGradient>
+    </defs>
+  </svg>
+</div>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/featured_projects.gif" width = 50px></picture> Spotlight Projects
+<br>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Title 1</h3>
-      <div align="center">
-        <a href="[Link to Project 1 Repo]" target="_blank">
-          <img src="[URL_TO_PROJECT_1_IMAGE_OR_GIF_DEMO]" alt="Project 1 Demo" width="80%">
-        </a>
-        <p><br><em>[Short, punchy description of Project 1. Highlight key features and tech used.]</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-          </p>
-        <a href="[Link to Project 1 Live Demo (if any)]" target="_blank">View Demo</a> |
-        <a href="[Link to Project 1 Repo]" target="_blank">View Code</a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Title 2</h3>
-      <div align="center">
-        <a href="[Link to Project 2 Repo]" target="_blank">
-          <img src="[URL_TO_PROJECT_2_IMAGE_OR_GIF_DEMO]" alt="Project 2 Demo" width="80%">
-        </a>
-        <p><br><em>[Short, punchy description of Project 2. Highlight key features and tech used.]</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-        </p>
-        <a href="[Link to Project 2 Live Demo (if any)]" target="_blank">View Demo</a> |
-        <a href="[Link to Project 2 Repo]" target="_blank">View Code</a>
-      </div>
-    </td>
-  </tr>
+<!-- DIGITAL DNA STATS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff6b6b,50:4ecdc4,100:45b7d1&height=80&section=header&text=🧬%20DIGITAL%20DNA%20ANALYSIS%20🧬&fontSize=20&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <table style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px;">
+    <tr>
+      <td align="center">
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=maheshrajpurohit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=45,667eea,764ba2&title_color=ffffff&text_color=ffffff&icon_color=7adff3&border_color=7adff3&border_radius=15"/>
+      </td>
+      <td align="center">
+        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshrajpurohit&layout=compact&theme=tokyonight&bg_color=45,764ba2,667eea&title_color=ffffff&text_color=ffffff&border_color=7adff3&border_radius=15"/>
+      </td>
+    </tr>
   </table>
-
-<div align="center">
-  <a href="[Link to your GitHub Repositories page with more projects]">➡️ See More Of My Work</a>
 </div>
 
----
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshrajpurohit&theme=tokyonight&background=45%2C667eea%2C764ba2&border=7adff3&stroke=ffffff&ring=7adff3&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7adff3&sideLabels=ffffff&dates=ffffff" />
+</div>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/github_stats.gif" width = 50px></picture> My GitHub Universe
+<br>
+
+<!-- CREATIVE CODING JOURNEY -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,100:fed6e3&height=120&section=header&text=🚀%20CODING%20ODYSSEY%20🚀&fontSize=26&fontColor=444444&animation=fadeIn" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="[Your Name]'s GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="[Your Name]'s Top Languages" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true" alt="[Your Name]'s GitHub Streak" />
-  <br><br>
-  </div>
+  <table style="width: 80%; border: none;">
+    <tr>
+      <td align="center" style="border: 3px solid #7adff3; border-radius: 50%; padding: 20px; margin: 10px; background: linear-gradient(45deg, #ff9a9e, #fecfef);">
+        <h3 style="color: #444444; margin: 0;">🎯 CURRENT QUEST</h3>
+        <p style="color: #666666; margin: 5px 0;">Building epic web experiences</p>
+        <p style="color: #666666; margin: 5px 0;">Mastering React & Node.js</p>
+      </td>
+      <td align="center" style="border: 3px solid #7adff3; border-radius: 50%; padding: 20px; margin: 10px; background: linear-gradient(45deg, #a8edea, #fed6e3);">
+        <h3 style="color: #444444; margin: 0;">🌱 GROWTH MODE</h3>
+        <p style="color: #666666; margin: 5px 0;">Learning something new daily</p>
+        <p style="color: #666666; margin: 5px 0;">Exploring AI & ML frontiers</p>
+      </td>
+      <td align="center" style="border: 3px solid #7adff3; border-radius: 50%; padding: 20px; margin: 10px; background: linear-gradient(45deg, #ffecd2, #fcb69f);">
+        <h3 style="color: #444444; margin: 0;">🤝 COLLABORATION</h3>
+        <p style="color: #666666; margin: 5px 0;">Open source enthusiast</p>
+        <p style="color: #666666; margin: 5px 0;">Team player & mentor</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<details align="center">
-  <summary>🏆 GitHub Trophies</summary>
+<br>
+
+<!-- UNIQUE ACTIVITY HEATMAP -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:667eea,100:764ba2&height=100&section=header&text=⚡%20CODE%20FREQUENCY%20SCANNER%20⚡&fontSize=22&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshrajpurohit&custom_title=My%20Coding%20Universe&bg_color=0D1117&color=7adff3&line=ff6b6b&point=ffffff&area=true&hide_border=false&border_color=7adff3&area_color=7adff3" width="90%" />
+</div>
+
+<br>
+
+<!-- INTERACTIVE SOCIAL DIMENSION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=🌐%20ENTER%20THE%20SOCIAL%20MATRIX%20🌐&fontSize=24&fontColor=7adff3&animation=blinking" />
+</div>
+
+<div align="center">
+  <table style="background: radial-gradient(circle, #667eea, #764ba2); border-radius: 20px; padding: 30px;">
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/maheshrajpurohit">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect_Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/maheshrajpurohit">
+          <img src="https://img.shields.io/badge/Twitter-Follow_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="mailto:mahesh.rajpurohit@email.com">
+          <img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://instagram.com/maheshrajpurohit">
+          <img src="https://img.shields.io/badge/Instagram-Visual_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- VISITOR COUNTER WITH STYLE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=60&section=header&text=�️%20DIGITAL%20FOOTPRINTS%20👁️&fontSize=18&fontColor=ffffff" />
   <br>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </div>
-</details>
-
----
-
-## <picture><img src = "https://raw.githubusercontent.com/ Před Húfa/PredHufa/main/source/gitmusic.gif" width = "40" height = "40" ></picture> Currently On My Radar
-
-<div align="center">
-  <p><em>🎶 Currently listening to: [Your Favorite Song/Artist/Playlist - manually update or use an API]</em></p>
-  <p><em>📚 Currently reading: "[Book Title]" by [Author]</em></p>
-  <p><em>💡 Thinking about: [A cool tech concept, a problem you're trying to solve, or a new project idea]</em></p>
+  <img src="https://komarev.com/ghpvc/?username=maheshrajpurohit&label=Visitors%20in%20the%20Matrix&color=7adff3&style=for-the-badge" />
 </div>
 
----
+<br>
 
-## <picture><img src = "https://github.com/Stanley-Ochieng/Stanley-Ochieng/blob/main/gifs/connect.gif" width = 30px></picture> Let's Connect & Collaborate!
-
+<!-- EPIC FINALE -->
 <div align="center">
-  <p>I'm always excited to connect with fellow developers, designers, and tech enthusiasts!</br>
-  Whether you want to talk about a project, share ideas, or just say hi, feel free to reach out.</p>
-
-  <p>
-    Let's build something amazing together! 🚀
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20Digital%20Universe!&fontSize=20&fontColor=ffffff&desc=Keep%20coding,%20keep%20dreaming,%20keep%20building%20the%20future!&descAlignY=75&descAlign=50&animation=fadeIn" />
 </div>
 
----
-
 <div align="center">
-  <img src="[URL_TO_A_COOL_FOOTER_GIF_OR_ANIMATED_LINE_OR_YOUR_LOGO_SMALL]" width="100%"/>
-  <p><small><em>Last Profile Update: [Date - you can automate this with Actions!]</em></small></p>
-  <p><small>✨ Crafted with ❤️ and a whole lot of ☕ ✨</small></p>
+  <h2 style="color: #7adff3; font-family: 'Courier New', monospace;">
+    <code>while(alive) { eat(); sleep(); code(); repeat(); }</code>
+  </h2>
 </div>
