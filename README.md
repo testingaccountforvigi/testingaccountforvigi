@@ -146,6 +146,7 @@ _"The path of a developer is never complete - there's always a new framework to 
 
 </div>
 
+<br>
 ## 🏆 **Achievement Gallery**
 
 <div align="center">
@@ -200,7 +201,7 @@ _Random Stuff_
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -219,7 +220,7 @@ _Random Stuff_
 ![Continuous Learning](https://img.shields.io/badge/Continuous-Learning-F8B500?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
-
+<br>
 ## 🌟 **CALL TO ACTION STATION** 🌟
 
 **Ready to connect? Pick your portal and let's build something amazing together!**
