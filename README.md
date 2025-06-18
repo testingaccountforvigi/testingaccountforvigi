@@ -147,6 +147,7 @@ _"The path of a developer is never complete - there's always a new framework to 
 </div>
 
 <br>
+
 ## 🏆 **Achievement Gallery**
 
 <div align="center">
@@ -221,6 +222,7 @@ _Random Stuff_
 
 </div>
 <br>
+
 ## 🌟 **CALL TO ACTION STATION** 🌟
 
 **Ready to connect? Pick your portal and let's build something amazing together!**
