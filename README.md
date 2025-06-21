@@ -222,7 +222,35 @@ _Random Stuff_
 </div>
 <br>
 
-## 🌟 **CALL TO ACTION STATION** 🌟
+## � **NOW JAMMING** 🎵
+
+<div align="center">
+
+### 🎧 **Live Music Status** 🎧
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=upw50tfquxa479zbn502839zw&redirect=true&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=1db954&bar_color_cover=true)](https://open.spotify.com/user/upw50tfquxa479zbn502839zw)
+
+<!-- Real-time alternative widget -->
+
+[![Current Spotify Song](https://spotify-recently-played-readme.vercel.app/api?user=upw50tfquxa479zbn502839zw&count=1&unique=true&width=500)](https://open.spotify.com/user/upw50tfquxa479zbn502839zw)
+
+**🔴 LIVE STATUS:** _Updates every 30 seconds - Like Discord!_
+
+</div>
+
+<!-- Alternative manual approach:
+### 🎧 **Currently Vibing To** 🎧
+
+**🎵 Now Playing:** Song Name - Artist Name
+**🎨 Album:** Album Name
+**⏰ Last Updated:** 21 June 2025
+
+*Manual update - I change this when I'm coding with good music!*
+-->
+
+<br>
+
+## �🌟 **CALL TO ACTION STATION** 🌟
 
 **Ready to connect? Pick your portal and let's build something amazing together!**
 
