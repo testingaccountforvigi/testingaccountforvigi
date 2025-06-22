@@ -38,7 +38,7 @@
   }
 
   current_quest: "Mastering Engineering",
-  motto: "Think like a philosopher. Build like an engineer."
+  motto: "Think like a Philosopher. Build like an Engineer."
 }
 ```
 
@@ -84,6 +84,8 @@
 ```
 
 </div>
+
+<div align="center">
 
 ### 🌟 **Skill Tree Progression**
 
@@ -175,8 +177,6 @@ DSA(Java)          ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 
 ### 🎮 **Special Abilities**
 
-<div align="center">
-
 |      🔮 **Ability**       |    📊 **Power Level**     | ⏰ **Cooldown** |
 | :-----------------------: | :-----------------------: | :-------------: |
 | 🚀 **Rapid Prototyping**  | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |     0 hours     |
@@ -200,7 +200,7 @@ DSA(Java)          ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ⏳ Time Remaining: ∞ (Continuous Learning Mode)
 ```
 
-_"The path of a developer is never complete - there's always a new framework to master!"_ ⚡
+_"First solve the problem. Then write the code." – John Johnson_ ⚡
 
 </div>
 
