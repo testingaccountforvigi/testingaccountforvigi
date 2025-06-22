@@ -67,9 +67,9 @@
 </tr>
 </table>
 
-## ⚔️ RPG Character Stats & Skill Tree
-
 <div align="center">
+
+## ⚔️ RPG Character Stats & Skill Tree
 
 ### 🧙‍♂️ **Developer Class: Full Stack Wizard** 🧙‍♂️
 
@@ -201,13 +201,10 @@ DSA(Java)          ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ```
 
 _"First solve the problem. Then write the code." – John Johnson_ ⚡
-
-</div>
-
 <br>
 
 ## 🏆 **Achievement Gallery**
-
+</div>
 <div align="center">
 
 <table>
