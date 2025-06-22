@@ -5,8 +5,68 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&pause=2000&color=7adff3&center=true&vCenter=true&width=650&lines=%E2%9A%A1+TURNING+COFFEE+INTO+CODE+%E2%9A%A1;%F0%9F%9A%80+LEARNING+EVERY+DAY+%F0%9F%9A%80;%F0%9F%94%A5+EAT+SLEEP+CODE+REPEAT+%F0%9F%94%A5)](https://git.io/typing-svg)
-  
+
+## 🌟 **ABOUT THE DEVELOPER** 🌟
+
+### 💻 **TERMINAL ACCESS GRANTED** 💻
+
+```bash
+┌──────────────────────────────────────────────────────────────────┐
+│  🖥️  mahesh@developer: ~$ whoami                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 </div>
+
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 **DNA SEQUENCE**
+
+```
+🧬 DEVELOPER_DNA {
+  name: "Mahesh Rajpurohit",
+  class: "Full Stack Wizard 🧙‍♂️",
+  location: "Planet Earth 🌍",
+  mission: "Transform ideas into reality",
+
+  core_values: {
+    curiosity: "∞",
+    persistence: "100%",
+    coffee_dependency: "CRITICAL ☕",
+    learning_mode: "ALWAYS_ON 🔥"
+  },
+
+  current_quest: "Mastering Clean Code",
+  motto: "Every bug is a puzzle 🧩"
+}
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ **REAL-TIME STATS**
+
+```
+┌─ LIVE DEVELOPER METRICS ─⎯┐
+│ㅤㅤㅤㅤ ㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤ     │
+│ 🔥 Streak: 365+ days       │
+│ ☕️ Coffee: 2.5L/day        │
+│ 🎯 Focus: 98.7%            │
+│ 🧠 Learning: NON-STOP      │
+│ 💡 Ideas: OVERFLOWING      │
+│ 🐛 Debug Level: EXPERT     │
+│ㅤㅤㅤㅤ ㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤ     │
+│ 🟢 Status: ACTIVELY CODING │
+│ 🎨 Mode: CREATIVE OVERFLOW │
+│ ⏳ Next Level: LOADING...  │
+└──────────────────────────⎯┘
+```
+
+</td>
+</tr>
+</table>
+
 
 ## ⚔️ RPG Character Stats & Skill Tree
 
