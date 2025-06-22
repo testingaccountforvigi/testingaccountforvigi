@@ -48,19 +48,19 @@
 ### ⚡ **REAL-TIME STATS**
 
 ```
-┌─ LIVE DEVELOPER METRICS ─⎯┐
-│ㅤㅤㅤㅤ ㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤ     │
-│ 🔥 Streak: 365+ days       │
-│ ☕️ Coffee: 2.5L/day        │
-│ 🎯 Focus: 98.7%            │
-│ 🧠 Learning: NON-STOP      │
-│ 💡 Ideas: OVERFLOWING      │
-│ 🐛 Debug Level: EXPERT     │
-│ㅤㅤㅤㅤ ㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤ     │
-│ 🟢 Status: ACTIVELY CODING │
-│ 🎨 Mode: CREATIVE OVERFLOW │
-│ ⏳ Next Level: LOADING...  │
-└──────────────────────────⎯┘
+┌─── LIVE DEVELOPER METRICS ───⎯┐
+│ㅤㅤㅤㅤ ㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤ         │
+│ 🔥 Streak: 365+ days           │
+│ ☕️ Coffee: 2.5L/day            │
+│ 🎯 Focus: 98.7%                │
+│ 🧠 Learning: NON-STOP          │
+│ 💡 Ideas: OVERFLOWING          │
+│ 🐛 Debug Level: EXPERT         │
+│ㅤㅤㅤㅤ ㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤ         │
+│ 🟢 Status: ACTIVELY CODING     │
+│ 🎨 Mode: CREATIVE OVERFLOW     │
+│ ⏳ Next Level: LOADING...      │
+└──────────────────────────────⎯┘
 ```
 
 </td>
@@ -82,10 +82,6 @@
 ║  🧠 MP: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90/100 (Focus)       ║
 ╚═════════════════════════════════════════════════╝
 ```
-
-</div>
-
-<div align="center">
 
 ### 🌟 **Skill Tree Progression**
 
@@ -201,9 +197,10 @@ DSA(Java)          ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ```
 
 _"First solve the problem. Then write the code." – John Johnson_ ⚡
-<br>
+<br><br>
 
 ## 🏆 **Achievement Gallery**
+
 </div>
 <div align="center">
 
