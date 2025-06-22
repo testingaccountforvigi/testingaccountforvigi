@@ -38,7 +38,7 @@
   }
 
   current_quest: "Mastering Engineering",
-  motto: "First solve the problem. Then write the code." – John Johnson
+  motto: "Think like a philosopher. Build like an engineer."
 }
 ```
 
