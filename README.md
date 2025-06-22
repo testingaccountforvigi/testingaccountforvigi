@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Mahesh.jpg" alt="Mahesh Rajpurohit Banner" width="100%" />
+  <img src="Mahesh.png" alt="Mahesh Rajpurohit Banner" width="100%" />
 </div>
 
 <div align="center">
