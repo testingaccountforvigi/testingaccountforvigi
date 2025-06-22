@@ -5,14 +5,8 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&pause=2000&color=7adff3&center=true&vCenter=true&width=650&lines=%E2%9A%A1+TURNING+COFFEE+INTO+CODE+%E2%9A%A1;%F0%9F%9A%80+LEARNING+EVERY+DAY+%F0%9F%9A%80;%F0%9F%94%A5+EAT+SLEEP+CODE+REPEAT+%F0%9F%94%A5)](https://git.io/typing-svg)
-  
-</div>
-
-<br>
 
 ## 🌟 **ABOUT THE DEVELOPER** 🌟
-
-<div align="center">
 
 ### 💻 **TERMINAL ACCESS GRANTED** 💻
 
@@ -34,18 +28,17 @@
 🧬 DEVELOPER_DNA {
   name: "Mahesh Rajpurohit",
   class: "Full Stack Wizard 🧙‍♂️",
-  location: "Planet Earth 🌍",
-  mission: "Transform ideas into reality",
+  location: "Planet Earth 🌍"
 
   core_values: {
     curiosity: "∞",
     persistence: "100%",
     coffee_dependency: "CRITICAL ☕",
     learning_mode: "ALWAYS_ON 🔥"
-  },
+  }
 
-  current_quest: "Mastering Clean Code",
-  motto: "Every bug is a puzzle 🧩"
+  current_quest: "Mastering Engineering",
+  motto: "First solve the problem. Then write the code." – John Johnson
 }
 ```
 
@@ -287,7 +280,7 @@ _Random Stuff_
 
 <br>
 
-## �🌟 **CALL TO ACTION STATION** 🌟
+## 🌟 **CALL TO ACTION STATION** 🌟
 
 **Ready to connect? Pick your portal and let's build something amazing together!**
 
