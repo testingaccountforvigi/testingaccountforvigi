@@ -69,6 +69,8 @@
 
 <div align="center">
 
+<br>
+
 ## ⚔️ RPG Character Stats & Skill Tree
 
 ### 🧙‍♂️ **Developer Class: Full Stack Wizard** 🧙‍♂️
@@ -182,12 +184,6 @@ DSA(Java)          ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 | 🎯 **Code Optimization**  | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  |     2 hours     |
 | 🔍 **Debugging Mastery**  | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%  |   15 minutes    |
 
-</div>
-
----
-
-<div align="center">
-
 ### 📈 **Current Quest: Mastering the Art of Clean Code**
 
 ```
@@ -199,10 +195,9 @@ DSA(Java)          ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 _"First solve the problem. Then write the code." – John Johnson_ ⚡
 <br><br>
 
-## 🏆 **Achievement Gallery**
+---
 
-</div>
-<div align="center">
+## 🏆 **Achievement Gallery**
 
 <table>
 <tr>
@@ -255,8 +250,6 @@ _Random Stuff_
 </table>
 
 <br>
-
-<div align="center">
 
 ![Stack Overflow Warrior](https://img.shields.io/badge/🔥_Stack_Overflow-Warrior-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)
 ![Bug Hunter](https://img.shields.io/badge/🐛_Bug-Hunter-red?style=for-the-badge&logo=debug&logoColor=white)
