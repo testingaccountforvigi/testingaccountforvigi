@@ -195,8 +195,6 @@ DSA(Java)          ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 _"First solve the problem. Then write the code." – John Johnson_ ⚡
 <br><br>
 
----
-
 ## 🏆 **Achievement Gallery**
 
 <table>
